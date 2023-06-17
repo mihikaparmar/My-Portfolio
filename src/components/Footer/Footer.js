@@ -12,12 +12,12 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://t.me/lordarcadius">Telegram</LinkItem>
+          <LinkItem href="https://t.me/mihikaparmar">Telegram</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:bt20cse065@iiitn.ac.in">
-            hey@mihikaparmar.com
+          <LinkItem href="mihikaparmar20@gmail.com">
+            mihikaparmar20@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>

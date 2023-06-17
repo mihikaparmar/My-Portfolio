@@ -16,26 +16,26 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:hey@vipuljha.com">
-            hey@vipuljha.com
+          <LinkItem href="mailto:bt20cse065@iiitn.ac.in">
+            hey@mihikaparmar.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Copyright &copy; {year} <Link href="https://www.vipuljha.com">  Vipul Jha</Link>. All rights reserved.</Slogan>
+          <Slogan>Copyright &copy; {year} <Link href="https://www.mihikaparmar.com">  Mihika Parmar</Link>. All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/lordarcadius">
+          <SocialIcons href="https://github.com/mihikaparmar">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+          <SocialIcons href="https://www.linkedin.com/in/mihika-parmar-776711201/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/lordarcadius">
+          <SocialIcons href="https://www.instagram.com/ft.mihika">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.twitter.com/lordarcadius">
+          <SocialIcons href="">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>

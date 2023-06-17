@@ -10,7 +10,7 @@ const Header = () => (
         href="/"
         style={{ display: 'flex', alignItems: 'center', color: "white" }}>
 
-        <img src="/logo.svg" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Vipul Jha</span>
+        <img src="/logo.svg" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Mihika Parmar</span>
 
       </Link>
     </Div1>
@@ -42,7 +42,7 @@ const Header = () => (
       <SocialIcons href="https://www.instagram.com/ft.mihika">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.twitter.com/lordarcadius">
+      <SocialIcons href="https://leetcode.com/mihikaparmar/">
         <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
     </Div3>

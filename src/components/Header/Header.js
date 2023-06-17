@@ -20,30 +20,26 @@ const Header = () => (
           <NavLink>Projects</NavLink>
         </Link>
       </li>
-      <li>
-        <Link href="#skills" legacyBehavior>
-          <NavLink>Skills</NavLink>
-        </Link>
-      </li>
+     
       <li>
         <Link href="#about" legacyBehavior>
           <NavLink>About</NavLink>
         </Link>
       </li>
       <li>
-        <a href="https://blog.vipuljha.com">
-          <NavLink>Blog</NavLink>
-        </a>
+      <Link href="#contact" legacyBehavior>
+          <NavLink>Contact</NavLink>
+        </Link>
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/lordarcadius">
+      <SocialIcons href="https://github.com/mihikaparmar">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+      <SocialIcons href="https://www.linkedin.com/in/mihika-parmar-776711201/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/lordarcadius">
+      <SocialIcons href="https://www.instagram.com/ft.mihika">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://www.twitter.com/lordarcadius">
